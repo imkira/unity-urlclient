@@ -1,0 +1,41 @@
+# MacOSX
+.DS_Store
+
+# VIM
+*.swp
+
+# packages
+packages
+
+# Android
+android/bin/*
+android/libs/*
+android/gen
+android/proguard.cfg
+android/proguard-project.txt
+android/local.properties
+
+# xcode
+macosx/build/
+macosx/*.xcodeproj/*.pbxuser
+macosx/*.xcodeproj/*.mode1v3
+macosx/*.xcodeproj/*.mode2v3
+macosx/*.xcodeproj/*.perspectivev*
+macosx/*.xcodeproj/*.xcuserstate
+macosx/*.xcodeproj/project.xcworkspace/
+macosx/*.xcodeproj/xcuserdata/
+
+# Unity
+unity/Library
+unity/Assembly-*
+unity/*.csproj
+unity/*.sln
+unity/*.pidb
+unity/*.userprefs
+unity/Temp
+
+unity/Assets/Plugins/Android/URLClient.jar
+unity/Assets/Plugins/Android/URLClient.jar.meta
+unity/Assets/Plugins/Android.meta
+unity/Assets/Plugins/URLClient.bundle/*
+unity/Assets/Plugins/URLClient.bundle.meta
