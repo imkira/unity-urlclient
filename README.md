@@ -28,7 +28,7 @@ Latest version: v1.0.0
 ### Unity 3.x
 
 * [Download Plugin](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-1.0.0.unitypackage)
-* [Download Demo](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-demo.unity)
+* [Download Demo](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-demo.unitypackage)
 
 ### Unity 4.x
 
