@@ -23,16 +23,16 @@ files via HTTP/HTTPS.
 
 ## Download & Installation
 
-Latest version: v1.0.0
+Latest version: v1.0.1
 
 ### Unity 3.x
 
-* [Download Plugin](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-1.0.0.unitypackage)
+* [Download Plugin](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-1.0.1.unitypackage)
 * [Download Demo](http://dl.bintray.com/imkira/unity-urlclient/unity3x-urlclient-demo.unitypackage)
 
-### Unity 4.x
+### Unity 4.x / Unity 5.x
 
-* [Download Plugin](http://dl.bintray.com/imkira/unity-urlclient/unity4x-urlclient-1.0.0.unitypackage)
+* [Download Plugin](http://dl.bintray.com/imkira/unity-urlclient/unity4x-urlclient-1.0.1.unitypackage)
 * [Download Demo](http://dl.bintray.com/imkira/unity-urlclient/unity4x-urlclient-demo.unitypackage)
 
 ## How To Use
