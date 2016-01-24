@@ -38,7 +38,7 @@ public class URLClientPostprocessor : Editor
     #if UNITY_5
     if (target != BuildTarget.iOS)
     #else
-    if (target != BuildTArget.iPhone)
+    if (target != BuildTarget.iPhone)
     #endif
     {
       return;
