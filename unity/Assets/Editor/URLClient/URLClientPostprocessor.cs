@@ -35,10 +35,10 @@ public class URLClientPostprocessor : Editor
   public static void OnPostprocessBuild(BuildTarget target,
       string pathToBuildProject)
   {
-    #if UNITY_5
-    if (target != BuildTarget.iOS)
-    #else
+    #if UNITY_3 || UNITY_4
     if (target != BuildTarget.iPhone)
+    #else
+    if (target != BuildTarget.iOS)
     #endif
     {
       return;
